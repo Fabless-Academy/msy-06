@@ -109,6 +109,16 @@
 
 ---
 
+### 6. Zonal-VCP
+* **진행 기간**: 2026.08
+* **주요 내용**: 
+* **사용 기술**: 
+* **담당 역할**: 
+* **주요 성과**:
+* **🔗 Repository**: [[프로젝트 Repo 링크](https://github.com/Fabless-Academy/06-msy-topst-vcp)]
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
