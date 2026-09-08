@@ -45,7 +45,7 @@
 	* **통신 병목 해결 및 신뢰성 확보**: 비행 제어 루프 지연을 해소하기 위해 MCU를 제어부/센서부로 분리하고 I2C Master-Slave 통신 구조를 구현하여 데이터 수신 오류율 0% 달성
 	* **온보드 블랙박스 로깅 체계 구축**: 무선 전송 간섭 문제를 극복하기 위해 MicroSD 기반 온보드 로깅 및 버퍼링 방식을 도입, 제어 주기 간섭 없이 실시간 비행 데이터 완벽 수집
 	* **커스텀 PCB 재설계**: Fritzing 기반 프로토타입을 KiCad를 이용해 MicroSD 슬롯 및 센서 배치가 최적화된 전용 PCB로 재설계
-* **🔗 Repository**: [프로젝트 Repo 링크](#)
+* **🔗 Repository**: [프로젝트 링크](https://coffee-astronomy-b47.notion.site/1-3d4bb940086280a68d8bc9bc5e1088a1)
 
 ---
 
@@ -54,13 +54,13 @@
 * **주요 내용**: Python을 활용하여 로봇의 구조와 상태를 분석하는 여러 시뮬레이션 프로그램을 개발
 * **사용 기술**: `Python` `Forward/Inverse kinematics` `Jacobian` `Kalman Filter` `NumPy` `Matplotlib`
 * **담당 역할**: 알고리즘 수식 모델링, Python UI/시각화 도구 개발
-* **핵심 성과**:
+* **주요 성과**:
 	* Kutzbach Formula 기반 **로봇 자유도 계산기**
 	* DH Parameter 기반 **6DOF 로봇 정기구학 시뮬레이션**
 	* Jacobian Matrix 기반 **로봇 특이점 탐색 프로그램**
 	* Kalman Filter 기반 **IMU + GPS 센서 퓨전 프로그램**
 	* Matplotlib / NumPy를 활용한 실시간 시각화
-* **🔗 Repository**: [프로젝트 Repo 링크](#)
+* **🔗 Repository**: [프로젝트 링크](https://coffee-astronomy-b47.notion.site/2-3d4bb94008628039adc9d84c3efeef29)
 
 ---
 
@@ -76,7 +76,7 @@
 	* 타이머 카운터를 이용한 10초 개폐 및 3초 안전 대기 제어
 	* 입력 조건에 따른 Next State Logic 구현
 	* Vivado Simulation을 활용한 상태 전이 및 출력 파형 검증
-* **🔗 Repository**: [프로젝트 Repo 링크](#)
+* **🔗 Repository**: [프로젝트 링크](https://coffee-astronomy-b47.notion.site/3-Xilinx-Spartan-7-FSM-3d4bb94008628080b6b0f6449923e549)
 
 ---
 
@@ -90,7 +90,7 @@
 * **주요 성과**:
 	* AMBA AXI 버스 프로토콜 기반으로 PL 영역에 유연하게 주변장치를 배치하여 시스템의 확장성과 유연성을 확보
 	* 실시간 이벤트 처리 알고리즘을 HW/SW 통합 구조로 완벽히 검증
-* **🔗 Repository**: [프로젝트 Repo 링크](#)
+* **🔗 Repository**: [프로젝트 링크](https://coffee-astronomy-b47.notion.site/4-Zynq-SoC-PS-PL-3d4bb94008628062b6d8e507b791e15f)
 
 ---
 
@@ -105,7 +105,7 @@
 	* 입력 30V → 출력 10V 강압 회로에서 L-C 파라미터 조율 ($L=3.5\mu\text{H}, C=270\mu\text{F}$)
 	* 초기 설계 대비 리플 특성을 개선하며 설계 신뢰성 확보
 	* **출력 전압 리플 5% 이내** 달성
-* **🔗 Repository**: [프로젝트 Repo 링크](#)
+* **🔗 Repository**: [프로젝트 링크](https://coffee-astronomy-b47.notion.site/5-PSIM-3d4bb9400862804c9eabc4588068d662)
 
 ---
 
@@ -115,7 +115,7 @@
 * **사용 기술**: 
 * **담당 역할**: 
 * **주요 성과**:
-* **🔗 Repository**: [[프로젝트 Repo 링크](https://github.com/Fabless-Academy/06-msy-topst-vcp)]
+* **🔗 Repository**: [프로젝트 링크](https://github.com/Fabless-Academy/06-msy-topst-vcp)
 
 ---
 
